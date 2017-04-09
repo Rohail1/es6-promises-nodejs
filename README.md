@@ -7,7 +7,7 @@ This is a demo project in which ES6 promises are used with Node.js
 running the following command
 
     > npm install
-    > npm server.js
+    > node server.js
 
 
 # For Any Queries
